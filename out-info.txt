@@ -1,0 +1,13 @@
+after scanning phase, stack contents are
+[9993, 7]
+[9865, 128]
+[7814, 2051]
+[4066, 3748]
+[0, 4066]
+bottom-up merges
+merging [9865, 128] [9993, 7]
+merging [4066, 3748] [7814, 2051]
+merging [4066, 5799] [9865, 135]
+merging [0, 4066] [4066, 5934]
+total number of runs found = 313
+total number of merges performed = 312
